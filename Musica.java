@@ -3,8 +3,8 @@ public class Musica {
     int faixa;
 
     public void exibirDados(String nomeMusica, int faixa) {
-        System.in.println("Nome: "+nomeMusica);
-        System.in.println("Faixa: "+faixa);
+        System.out.println("Nome: "+nomeMusica);
+        System.out.println("Faixa: "+faixa);
     }
     
 }
