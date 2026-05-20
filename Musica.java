@@ -4,7 +4,7 @@ public class Musica {
 
     public void exibirDados(String nomeMusica, int faixa) {
         System.in.println("Nome: "+nomeMusica);
-        System.in.println("Faixa: "+faica);
+        System.in.println("Faixa: "+faixa);
     }
     
 }
